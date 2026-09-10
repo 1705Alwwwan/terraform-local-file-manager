@@ -1,0 +1,4 @@
+Project   : terraform-local-project
+Environment: development
+
+File ini dibuat menggunakan Terraform.
